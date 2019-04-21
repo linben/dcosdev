@@ -17,7 +17,6 @@ cd dcosdev
 Use the following two commands to install the `minio` service and to make it available via the dc/os public agent.
 
 ```
-dcos package install marathon-lb --yes
 dcos package install minio --yes
 ```
 
